@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/74282513?v=4" style="border-radius: 50px">
+<img src="https://avatars.githubusercontent.com/u/74282513?v=4" style="border-radius: 50px;">
 
 <h2> Hey there! I'm Ankit.</h2>
 
