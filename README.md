@@ -53,4 +53,4 @@
 <a href="mailto:ankitsaurabh57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitsaurabh57@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/ankits57)
+⭐️ From [Ankit](https://github.com/ankits57)
