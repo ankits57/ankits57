@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/ankits57/ankits57/master/assets/Aditya%20Vikram%20Singh%20Banner.png](https://avatars.githubusercontent.com/u/74282513?s=400&u=9f543dab4b358ace0f5a05bdafa8c47c4fd797ad&v=4)">
+<img src="https://avatars.githubusercontent.com/u/74282513?v=4">
 
 <h2> Hey there! I'm Ankit.</h2>
 
