@@ -47,10 +47,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/ankit57/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20Saurabh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ankitish/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankitish-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ankitsaurabh57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitsaurabh57@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 </p>
 
 ⭐️ From [Ankit](https://github.com/ankits57)
