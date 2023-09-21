@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Engineering.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about React, Frontend Development and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Frontend stack and Designing as hobbies/side hustles.
 
@@ -50,7 +49,7 @@
 <a href="https://www.linkedin.com/in/ankit57/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20Saurabh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ankitish/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankitish-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ankitsaurabh57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitsaurabh57@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> <h1>- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.</h1> -->
 </p>
 
 ⭐️ From [Ankit](https://github.com/ankits57)
